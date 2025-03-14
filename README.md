@@ -1,5 +1,7 @@
 # envOrThrow
 
+[![JSR Score](https://jsr.io/badges/@dudasaus/env-or-throw/score)](https://jsr.io/@dudasaus/env-or-throw)
+
 ## Install
 
 ```bash
