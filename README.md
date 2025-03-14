@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-deno add @dudasaus/env-or-throw
+deno add jsr:@dudasaus/env-or-throw
 ```
 
 ## Usage
